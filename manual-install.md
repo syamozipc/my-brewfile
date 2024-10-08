@@ -1,3 +1,3 @@
 ## Apple Store
-- kindle
-- rRunCat
+- Amazon Kindle
+- RunCat
