@@ -7,7 +7,8 @@ brew "jq" # JSON を操作・解析するツール
 brew "yq" # YAML を操作・解析するツール
 brew "lsd" # ls コマンドの改良版。アイコンや色付けによる視覚的な改善を提供
 brew "node" # Node.js
-brew "yarn"
+brew "pinentry" # GPGキー生成用にどこかで必要
+brew "pinentry-mac" # GPGキー生成用にどこかで必要
 cask "1password"
 cask "dbeaver-community"
 cask "docker"
